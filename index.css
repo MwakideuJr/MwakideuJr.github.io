@@ -1,0 +1,43 @@
+
+
+#MAIN{
+    flex: auto;
+    align-items: unset;
+    width: 85%;
+    flex-wrap: unset;
+    margin-right: 25%;
+}
+.drake{
+    width: 50px;
+    height: 50px;
+}
+
+
+#CONTAINER{
+
+    width: 100%;
+    background-color: rgb(53, 43, 43);
+    margin: 0 auto;
+}
+
+#HEADER{
+    width: auto;
+    background-color: cadetblue;
+    
+    padding: 15px;
+}
+
+#SIDEBAR{
+    align-items: flex-end;
+    width: 15%;
+    margin-left: 92%;
+    padding: 60px;
+    background-color: cadetblue;
+
+
+}
+
+#NEWS{
+    flex-wrap: wrap;
+
+}
